@@ -1,8 +1,8 @@
-# Interview Kickstart — ML Engineering Curriculum
+# ML Engineering Portfolio
 
-Complete coursework and projects from the Interview Kickstart ML Engineering program, covering classical machine learning through production LLM systems. Each notebook includes detailed reasoning, analysis, and key takeaways — not just code.
+Coursework and projects completed through the [Interview Kickstart](https://interviewkickstart.com/courses/machine-learning-course) ML Engineering program — spanning classical ML, deep learning, NLP, transformers, and production LLM systems (RAG, fine-tuning, LoRA/DPO). Each notebook includes detailed reasoning, analysis, and key takeaways — not just code.
 
-## Curriculum Overview
+## Overview
 
 ### Modules
 
@@ -15,7 +15,6 @@ Complete coursework and projects from the Interview Kickstart ML Engineering pro
 | 5 | ML Architectures | CNN for images, BiLSTM for text, architecture selection | [Open](modules/05-ml-architectures/ml_architectures.ipynb) |
 | 6 | Transformer Based Models | Self-attention, multi-head attention, transformer blocks | [Open](modules/06-transformers/transformers.ipynb) |
 | 7 | Deep Dive into LLMs | Prompt engineering, LoRA/PEFT, RAG, fine-tuning (SFT/DPO) | [Open](modules/07-deep-dive-llms/deep_dive_llms.ipynb) |
-| 8 | Behavioral Interview | STAR method, impact quantification, ML-specific frameworks | [Open](modules/08-behavioral-interview/behavioral_interview.ipynb) |
 
 ### Projects
 
@@ -27,16 +26,16 @@ Complete coursework and projects from the Interview Kickstart ML Engineering pro
 
 ## Completion Summary
 
-- **8/8 modules** completed with detailed analysis and reasoning
-- **2 INI projects** scored by industry experts (92%, 88%)
+- **7/7 modules** completed with detailed analysis and reasoning
+- **2 applied projects** scored by industry experts (92%, 88%)
 - **1 Capstone project** with production-grade RAG pipeline (95%)
 
 ## How to Run
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/interview-kickstart.git
-cd interview-kickstart
+git clone https://github.com/leoniscode/ml-engineering-portfolio.git
+cd ml-engineering-portfolio
 
 # Install dependencies
 pip install -r requirements.txt
